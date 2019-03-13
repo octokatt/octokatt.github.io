@@ -6,7 +6,7 @@ url: "kattkennedy.com" # the base hostname & protocol for your site e.g. http://
 
 # User settings
 username: Katt Kennedy
-user_description: I do practical systems analysis for businesses. I've worked with siloed solutions from a bygone era, decades of surveys with varying degrees of accuracy, gigabytes of badly formatted data, and high-level data architecture and infrastructure. 
+user_description: I do practical systems analysis for businesses. I've worked with siloed ERP/CRM platforms, decades of surveys with varying degrees of accuracy, gigabytes of irregularly formatted data, and high-level data architecture and infrastructure design. 
 user_title: Data Scientist, MBA
 email: katt@fatehold.com
 twitter_username: octokatt_bot
