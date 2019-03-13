@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PDF",
+				"PDF_FILE"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 742,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/projects.html",
+			"settings":
+			{
+				"buffer_size": 1220,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"print(\"hello world\")",
+			"print \"hello world\"",
+			"'cartman'.pop()",
+			"2+2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/katt/Documents/Code/octokatt.github.io/_includes/about.html",
+		"/Users/katt/Documents/Code/octokatt.github.io/_config.yml",
+		"/Users/katt/Documents/Code/octokatt.github.io/projects.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/_posts/2019-02-13-first-version-of-website.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/about.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/faq.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/_posts/2019-02-08-first.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/index.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/_data/navigation.yml",
+		"/Users/katt/Documents/Code/octokatt.github.io/_data/contact.yml",
+		"/Users/katt/Documents/Code/octokatt.github.io/_includes/navigation.html",
+		"/Users/katt/Documents/Code/octokatt.github.io/_includes/contact.html",
+		"/Users/katt/Documents/Code/octokatt.github.io/blog.html",
+		"/Users/katt/Documents/Code/octokatt.github.io/toc.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/notes.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/assets/css/styles.scss",
+		"/Users/katt/Documents/Code/octokatt.github.io/_layouts/default.html",
+		"/Users/katt/Documents/Code/octokatt.github.io/Gemfile",
+		"/Users/katt/Documents/Code/octokatt.github.io/_site/assets/css/styles.css",
+		"/Users/katt/Documents/Code/octokatt.github.io/books.md",
+		"/Users/katt/Documents/Code/octokatt.github.io/_layouts/post.html",
+		"/Users/katt/Documents/Code/Notes/2019-02-08-one-more-jekyll.md",
+		"/Users/katt/Documents/Code/resources.md",
+		"/Users/katt/Documents/Code/rumsford/characters/dictionary_ryker.md",
+		"/Users/katt/Documents/Code/rumsford/campaign-notes.md",
+		"/Users/katt/Documents/Code/rumsford/characters/Manyara_Swift.md",
+		"/Users/katt/Documents/Code/rumsford/characters/angela_gladstone.md",
+		"/Users/katt/Documents/Code/Notes/2018-11-19-weekly-plan.md",
+		"/Users/katt/Documents/Code/rumsford/characters/angela_gladstone.txt",
+		"/Users/katt/Documents/Code/angela_gladstone.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-22-weekly-goals.md",
+		"/Users/katt/Documents/Code/Portfolio/survey_sample.csv",
+		"/Users/katt/Documents/Code/Notes/2018-10-12-codecademy-2.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-22-tooling-goals.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-17-filling-in-holes.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-18-codecademy-3.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-19-codecademy-4.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-09-codecademy-1.md",
+		"/Users/katt/Documents/Code/Pokedex/project/src/data/pdf_scrape.py",
+		"/Users/katt/Documents/Code/Notes/2018-10-04-pdf-scraping-2.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-05-pdf-scraper-3.md",
+		"/Users/katt/Documents/Code/Pokedex/src/data/pdf_scrape.py",
+		"/Users/katt/Documents/Code/Notes/2018-10-03-pdf-scraping-1.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-02-python-bootcamp-5.md",
+		"/Users/katt/Documents/Code/Notes/2018-10-01-python-bootcamp-4.md",
+		"/Users/katt/Documents/Weekly Goals/2018-09-24-weekly-goals.md",
+		"/Users/katt/Documents/Code/Notes/2018-09-21-python-bootcamp-3.md",
+		"/Users/katt/Documents/Code/Notes/2018-09-11-python-bootcamp-2.md",
+		"/Users/katt/Documents/Code/Notes/2018-09-10-python-bootcamp-1.md",
+		"/Users/katt/Documents/Code/example1.py",
+		"/Users/katt/Library/Mobile Documents/com~apple~CloudDocs/sublime_test_license.txt",
+		"/Users/katt/Documents/Code/Notes/2018-10-10-python-bootcamp-1.md",
+		"/Users/katt/Documents/Code/helloworld.py",
+		"/Users/katt/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/projects.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Code/Notes/current-notes.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
