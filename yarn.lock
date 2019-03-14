@@ -1136,7 +1136,7 @@ dashdash@^1.12.0:
   dependencies:
     assert-plus "^1.0.0"
 
-debug@2.6.9, debug@^2.1.2, debug@^2.3.3:
+debug@2.6.9, debug@^2.1.2:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"
   integrity sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==
@@ -3251,8 +3251,8 @@ localtunnel@1.9.1:
     openurl "1.1.1"
     yargs "6.6.0"
 
-lodash.assign@^4.2.0:
-  version "4.2.0"
+lodash.assign@^4.17.11:
+  version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash.assign/-/lodash.assign-4.2.0.tgz#0d99f3ccd7a6d261d19bdaeb9245005d285808e7"
 
 lodash.assignwith@^4.0.7:
@@ -4307,8 +4307,8 @@ query-string@^5.0.1:
     object-assign "^4.1.0"
     strict-uri-encode "^1.0.0"
 
-randomatic@^1.1.3:
-  version "1.1.6"
+randomatic@^3.0.0:
+  version "3.0.0"
   resolved "https://registry.yarnpkg.com/randomatic/-/randomatic-1.1.6.tgz#110dcabff397e9dcff7c0789ccc0a49adf1ec5bb"
   dependencies:
     is-number "^2.0.2"
@@ -4959,8 +4959,8 @@ squeak@^1.0.0:
     console-stream "^0.1.1"
     lpad-align "^1.0.1"
 
-sshpk@^1.7.0:
-  version "1.10.2"
+sshpk@^1.13.0:
+  version "1.13.2"
   resolved "https://registry.yarnpkg.com/sshpk/-/sshpk-1.10.2.tgz#d5a804ce22695515638e798dbe23273de070a5fa"
   dependencies:
     asn1 "~0.2.3"
